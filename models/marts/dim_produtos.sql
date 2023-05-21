@@ -26,7 +26,7 @@ with
             , produtos.unidades_por_ordem			
             , produtos.nivel_reabastecimento
             , produtos.is_discontinuado
-            , catogorias.nome_categoria			
+            , categorias.nome_categoria			
             , categorias.descricao_categoria
             , fornecedores.nome_do_fornecedor
             , fornecedores.contato_fornecedor
